@@ -50,7 +50,7 @@ window = ThemedTk(theme='yaru')
 # Setting up core value's.
 window.title("Rock, paper, scissors!")
 window.geometry("300x185")
-window.iconbitmap(r"C:\Users\k_der\Nextcloud\ICT\Development\Python\Eigen_projecten\PY_GUI\first_gui\itkdr.png")
+window.iconbitmap(r"kdr.png")
 
 # The different elements within the application (TXT, buttons etc).
 greeting_txt = Label(window, text="Rock, paper, scissors game!!!", width=40)
