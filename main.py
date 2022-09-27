@@ -37,7 +37,6 @@ def clicked_chizzors():
         label_game_output.configure(text="You won! Yihaaa!")
 
 
-
 # Setting up defaults, main core stuff. Also setting the icon.
 root = tk.Tk()
 root.title("KDR")
@@ -52,7 +51,7 @@ ttk.Style().theme_use('forest-dark')
 label_welcome_top = ttk.Label(root, text="Rock, paper and scissors game!")
 label_welcome_top.pack(pady=15, padx=30)
 
-# User input buttonanananananas.
+# User input buttons.
 btn_rock_input = ttk.Button(root, text="Rock", command=clicked_rock)
 btn_rock_input.pack(pady=5, padx=30)
 
