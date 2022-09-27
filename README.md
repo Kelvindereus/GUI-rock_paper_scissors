@@ -1,6 +1,7 @@
 # GUI-rock_paper_scissors
 My rock_paper_scissors game but with a GUI!
 
+![image](https://user-images.githubusercontent.com/31496522/192581110-cbb0e18c-315c-4dc1-a24a-757d9bbf4c13.png)
 
 
 How to run this program:
