@@ -1,2 +1,2 @@
 # GUI-rock_paper_scissors
-My rock_paper_scissors game but with GUI!
+My rock_paper_scissors game but with a GUI!
